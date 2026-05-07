@@ -127,7 +127,7 @@ Commit. Actions 탭에서 다시 초록불 확인.
 
 ---
 
-## 7. 로컬에서 돌리고 싶다면 (선택)
+## 7. 로컬에서 돌리고 싶다면 ( 선택 )
 
 ```bash
 git clone https://github.com/<본인계정>/openup-cicd-demo.git
